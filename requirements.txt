@@ -1,0 +1,3 @@
+requests
+python-dotenv
+# Add Hyperliquid SDK here if it's pip-installable, e.g., hyperliquid-sdk
